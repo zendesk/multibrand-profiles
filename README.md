@@ -1,14 +1,33 @@
-# App name
+# Multibrand Profiles App
 
-[brief description of the app]
+Pending
 
-### The following information is displayed:
+## Screenshot(s):
 
-* info1
-* info2
-* info3
+Pending
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+## App location
 
-### Screenshot(s):
-[put your screenshots down here.]
+* Ticket sidebar
+
+## Features
+
+Pending
+
+## Using the app
+
+### Prerequisites
+
+Pending
+
+### Getting started
+
+Pending
+
+### Settings
+
+Pending
+
+## Known Issues & Limitations
+
+Pending
